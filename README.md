@@ -32,7 +32,10 @@ conter erros gerados por IA. Agradecemos sua compreensão e esperamos que este m
 - [SQLBolt - Aprenda SQL](https://sqlbolt.com/)
 
 ## Imagens 🤳
-
+### Capa do eBook
+<img src="https://github.com/RailaCarvalho/eBook-SQL-Reloaded/blob/main/Capturas/Capa.jpg" alt="Capa do eBook" width="200"> <br>
+### Processo de edição na plataforma Canva
+<img src="https://github.com/RailaCarvalho/eBook-SQL-Reloaded/blob/main/Capturas/montagem_no_canva.png" alt="Processo de montagem no Canva" width="570"> <br>
 
 ## Contribuições 🤝
 Contribuições são bem-vindas! Sinta-se à vontade para abrir um pull request ou relatar problemas no repositório.
